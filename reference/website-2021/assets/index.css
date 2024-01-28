@@ -1,0 +1,23 @@
+/* この中で CSS が書けるようになる */
+button {
+  border-radius: 10px;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+}
+
+div {
+  font-size: 30px;
+}
+
+.number-button {
+  background-color: white;
+}
+
+.operator {
+  background-color: cyan;
+}
+
+#equal {
+  background-color: lightgreen;
+}
